@@ -11,7 +11,7 @@
                     }
                  },
 
-                 "region": {
+                 "location": {
                     "type": "string",
                     "defaultValue": "US West 2",
                     "metadata": {
