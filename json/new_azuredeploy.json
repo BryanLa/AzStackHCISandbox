@@ -11,13 +11,7 @@
                     }
                  },
 
-                 "location": {
-                    "type": "string",
-                    "defaultValue": "US West 2",
-                    "metadata": {
-                        "description": "Location for all resources."
-                    }
-                }, 
+
                 "virtualMachineName": {
                     "type": "string",
                     "defaultValue": "AzSHCIHost001",
